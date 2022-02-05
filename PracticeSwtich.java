@@ -14,6 +14,7 @@ class PracticeSwtich
 		
 			}
 		System.out.println(vowels[i]);
+			System.out.println(" git pull test");
 		}
 		
 		for (char vow: vowels)
